@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E0F2FE,50:DBEAFE,100:CCFBF1&height=180&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EB%85%B8%EC%88%98%ED%95%9C%EC%9E%85%EB%8B%88%EB%8B%A4&fontSize=34&fontColor=334155&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=180&section=header&text=Welcome%20to%20suhannoh%20GitHub!👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </p>
 
 <h1 align="center">노수한 | Suhan Noh</h1>
 
 <p align="center">
-  <a href="mailto:suhannoh@gmail.com">suhannoh@gmail.com</a>
+  <a href="mailto:suhannoh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-suhannoh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
