@@ -1,16 +1,86 @@
-## Hi there 👋
+# 노수한 | Backend Developer
 
-<!--
-**suhannoh/suhannoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Java/Spring Boot 기반의 백엔드 개발을 학습하고 있습니다.  
+서비스의 조건, 상태, 데이터를 서버에서 명확하게 관리하는 구조에 관심이 있습니다.  
+AI를 단순 코드 생성 도구로 사용하기보다, 계획-구현-검증을 나누어 통제 가능한 개발 흐름을 만드는 데 관심이 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Backend**  
+Java, Spring Boot, Spring Data JPA
+
+**Database**  
+MySQL, PostgreSQL, Redis
+
+**Frontend**  
+React, JavaScript
+
+**DevOps & Tools**  
+Git, GitHub, Docker, Render
+
+**AI & Agent Workflow**  
+Codex, Superpowers, OMX, Hermes
+
+## Projects
+
+### 멍냥트립
+
+반려동물 동반 여행 정보를 제공하는 팀 프로젝트입니다.
+
+- **Role**: 담당 백엔드 기능 구현과 함께 공통 API 응답 구조, 전역 예외 처리, 문서화 흐름을 정리하며 팀 개발 기반을 구축했습니다.
+- **Main Feature**: 하루에 한 번 반려동물과 함께 방문하기 좋은 장소를 추천하고, 카카오톡 알림으로 전달하는 기능을 구현했습니다.
+- **Backend Focus**
+  - 일일 장소 추천 로직 구현
+  - 카카오톡 알림 연동을 통한 추천 메시지 발송
+  - 추천 장소 페이지 조회 API 구현
+  - 공통 API 응답 포맷 정의
+  - 전역 예외 처리 구조 적용
+  - API 문서화 및 팀 개발 흐름 정리
+- **Technical Challenge**
+  - 추천 대상 장소를 어떤 기준으로 선별할지 고민하며, 추천 데이터의 조회 흐름과 알림 발송 흐름을 분리해 설계했습니다.
+  - 카카오톡 알림으로 전달되는 추천 정보와 페이지에서 조회되는 추천 정보가 일관되게 관리되도록 API 구조를 정리했습니다.
+
+### Zup
+
+사용자가 여러 곳에 흩어진 혜택 정보를 한곳에서 탐색하고, 자신에게 맞는 혜택을 선택해 활용할 수 있도록 돕는 개인 프로젝트입니다.
+
+- **Role**: 서비스 기획, 기능 설계, 디자인 방향 설정, AI Agent 기반 개발 워크플로 구성
+- **Main Feature**: 혜택 정보를 카테고리별로 분류해 사용자가 원하는 혜택을 쉽게 탐색할 수 있도록 구현했습니다.
+- **Project Focus**
+  - Codex를 중심으로 Superpowers, OMX를 활용해 계획, 설계, 구현, 검증, 리뷰 단계를 나누어 개발 흐름을 구성했습니다.
+  - 기능 구현은 서브에이전트 단위로 분리해 진행하고, 결과물은 검증과 리뷰 과정을 거쳐 반영했습니다.
+  - Hermes를 활용해 혜택 데이터 수집 요청부터 검증, 페이지 노출까지 이어지는 흐름을 실험했습니다.
+  - 현재 약 100개의 혜택 데이터를 수집 및 검증해 서비스 화면에 노출하고 있습니다.
+  - 단순 코드 생성이 아니라, Agent를 통제 가능한 개발 워크플로 안에서 활용하는 방법을 학습했습니다.
+- **Backend Focus**
+  - 혜택 데이터를 카테고리 기준으로 관리하고 조회하는 API 구현
+  - 클라이언트에서 필요한 혜택 정보를 일관된 응답 구조로 제공
+  - 자동 수집된 데이터를 서비스에서 검증 가능하게 관리하는 구조 고민
+- **Links**
+  - Demo: https://zupday.kr/
+
+## Learning & Experience
+
+### Education
+
+**연세IT미래교육원 AI 활용 실무 풀스택 개발자 과정**  
+2025.09 ~ 2026.05
+
+- Java/Spring Boot 기반 백엔드 개발 학습
+- React 기반 프론트엔드 개발 학습
+- 팀 프로젝트 및 개인 프로젝트 기획/개발/배포 경험
+
+### Certifications
+
+| 자격증 | 발급기관 | 취득일 |
+| --- | --- | --- |
+| 정보처리기사 | 한국산업인력공단 | 2025.12 |
+| 정보처리기능사 | 한국산업인력공단 | 2025.07 |
+| 전기기능사 | 한국산업인력공단 | 2020.09 |
+
+## Contact
+
+- Email:
+- GitHub:
